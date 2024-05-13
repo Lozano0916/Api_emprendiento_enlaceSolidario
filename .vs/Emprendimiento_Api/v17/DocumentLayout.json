@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ProyectoEnlaceSolidario\\Emprendimiento_Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0475EC9-EAAC-4B75-A19A-645CDACEFEA5}|Emprendimiento_Api.csproj|c:\\proyectoenlacesolidario\\emprendimiento_api\\controllers\\emprendimientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0475EC9-EAAC-4B75-A19A-645CDACEFEA5}|Emprendimiento_Api.csproj|solutionrelative:controllers\\emprendimientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 373,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmprendimientoController.cs",
+              "DocumentMoniker": "C:\\ProyectoEnlaceSolidario\\Emprendimiento_Api\\Controllers\\EmprendimientoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmprendimientoController.cs",
+              "ToolTip": "C:\\ProyectoEnlaceSolidario\\Emprendimiento_Api\\Controllers\\EmprendimientoController.cs",
+              "RelativeToolTip": "Controllers\\EmprendimientoController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwB4AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T02:32:38.23Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 27,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

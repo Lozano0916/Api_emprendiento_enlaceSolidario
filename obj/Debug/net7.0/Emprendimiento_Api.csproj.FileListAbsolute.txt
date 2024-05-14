@@ -70,3 +70,4 @@ C:\ProyectoEnlaceSolidario\Emprendimiento_Api\obj\Debug\net7.0\Emprendimiento_Ap
 C:\ProyectoEnlaceSolidario\Emprendimiento_Api\obj\Debug\net7.0\Emprendimiento_Api.genruntimeconfig.cache
 C:\ProyectoEnlaceSolidario\Emprendimiento_Api\obj\Debug\net7.0\ref\Emprendimiento_Api.dll
 C:\ProyectoEnlaceSolidario\Emprendimiento_Api\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\ProyectoEnlaceSolidario\Emprendimiento_Api\obj\Debug\net7.0\Emprendimiento_Api.sourcelink.json

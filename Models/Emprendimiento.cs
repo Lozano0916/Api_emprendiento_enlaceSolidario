@@ -8,6 +8,7 @@ namespace Emprendimiento_Api.Models
     {
         [Key]
         public int IdEmprendimiento { get; set; }
+        public int IdUsuario { get; set; }
         public string Nombre { get; set; }
         public string Descripcion { get; set; }
         public string ChatWhatsApp {  get; set; }

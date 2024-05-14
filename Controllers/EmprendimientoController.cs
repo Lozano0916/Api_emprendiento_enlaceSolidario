@@ -60,6 +60,14 @@ namespace Emprendimiento_Api.Controllers
             return Ok(Iemprendimiento);
 
         }
+        [HttpGet("ConsultarUsuarios")]
+        public IActionResult Index()
+        {
+            var Iuser = _context.Usuario.ToList();
+            return Ok(Iuser);
+
+        }
+
         // POST api/<EmprendimientoController>
         [HttpPost("CrearEmprendimiento")]
         public async Task<IActionResult> CrearEmprendimiento([FromBody] Models.Emprendimiento nuevoEmprendimiento)

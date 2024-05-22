@@ -10,6 +10,7 @@ namespace Emprendimiento_Api.Context
         }
 
         public DbSet<Models.Emprendimiento> Emprendimiento { get; set; }
-        public DbSet<Models.Usuarios>  Usuario {  get; set; } 
+        public DbSet<Models.Usuarios>  Usuario {  get; set; }
+        public DbSet<Models.Products> Productos { get; set; }
     }
 }

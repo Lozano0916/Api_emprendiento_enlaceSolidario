@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\ProyectoEnlaceSolidario\\Emprendimiento_Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C0475EC9-EAAC-4B75-A19A-645CDACEFEA5}|Emprendimiento_Api.csproj|c:\\proyectoenlacesolidario\\emprendimiento_api\\controllers\\emprendimientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0475EC9-EAAC-4B75-A19A-645CDACEFEA5}|Emprendimiento_Api.csproj|solutionrelative:controllers\\emprendimientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C0475EC9-EAAC-4B75-A19A-645CDACEFEA5}|Emprendimiento_Api.csproj|c:\\proyectoenlacesolidario\\emprendimiento_api\\models\\emprendimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0475EC9-EAAC-4B75-A19A-645CDACEFEA5}|Emprendimiento_Api.csproj|solutionrelative:models\\emprendimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0475EC9-EAAC-4B75-A19A-645CDACEFEA5}|Emprendimiento_Api.csproj|c:\\proyectoenlacesolidario\\emprendimiento_api\\context\\conexionsqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0475EC9-EAAC-4B75-A19A-645CDACEFEA5}|Emprendimiento_Api.csproj|solutionrelative:context\\conexionsqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0475EC9-EAAC-4B75-A19A-645CDACEFEA5}|Emprendimiento_Api.csproj|c:\\proyectoenlacesolidario\\emprendimiento_api\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0475EC9-EAAC-4B75-A19A-645CDACEFEA5}|Emprendimiento_Api.csproj|solutionrelative:models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0475EC9-EAAC-4B75-A19A-645CDACEFEA5}|Emprendimiento_Api.csproj|c:\\proyectoenlacesolidario\\emprendimiento_api\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0475EC9-EAAC-4B75-A19A-645CDACEFEA5}|Emprendimiento_Api.csproj|solutionrelative:models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0475EC9-EAAC-4B75-A19A-645CDACEFEA5}|Emprendimiento_Api.csproj|c:\\proyectoenlacesolidario\\emprendimiento_api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0475EC9-EAAC-4B75-A19A-645CDACEFEA5}|Emprendimiento_Api.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 373,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,54 +34,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Emprendimiento.cs",
               "DocumentMoniker": "C:\\ProyectoEnlaceSolidario\\Emprendimiento_Api\\Models\\Emprendimiento.cs",
               "RelativeDocumentMoniker": "Models\\Emprendimiento.cs",
               "ToolTip": "C:\\ProyectoEnlaceSolidario\\Emprendimiento_Api\\Models\\Emprendimiento.cs",
               "RelativeToolTip": "Models\\Emprendimiento.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAswA4AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T16:14:26.113Z",
+              "WhenOpened": "2024-05-22T03:00:32.344Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ConexionSQLServer.cs",
-              "DocumentMoniker": "C:\\ProyectoEnlaceSolidario\\Emprendimiento_Api\\Context\\ConexionSQLServer.cs",
-              "RelativeDocumentMoniker": "Context\\ConexionSQLServer.cs",
-              "ToolTip": "C:\\ProyectoEnlaceSolidario\\Emprendimiento_Api\\Context\\ConexionSQLServer.cs",
-              "RelativeToolTip": "Context\\ConexionSQLServer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAFAAAA",
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\ProyectoEnlaceSolidario\\Emprendimiento_Api\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\ProyectoEnlaceSolidario\\Emprendimiento_Api\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvxIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T16:09:11.736Z",
+              "WhenOpened": "2024-05-22T02:46:20.405Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Usuarios.cs",
-              "DocumentMoniker": "C:\\ProyectoEnlaceSolidario\\Emprendimiento_Api\\Models\\Usuarios.cs",
-              "RelativeDocumentMoniker": "Models\\Usuarios.cs",
-              "ToolTip": "C:\\ProyectoEnlaceSolidario\\Emprendimiento_Api\\Models\\Usuarios.cs",
-              "RelativeToolTip": "Models\\Usuarios.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\ProyectoEnlaceSolidario\\Emprendimiento_Api\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "Models\\Products.cs",
+              "ToolTip": "C:\\ProyectoEnlaceSolidario\\Emprendimiento_Api\\Models\\Products.cs",
+              "RelativeToolTip": "Models\\Products.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAADwvxMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T16:07:41.82Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EmprendimientoController.cs",
-              "DocumentMoniker": "C:\\ProyectoEnlaceSolidario\\Emprendimiento_Api\\Controllers\\EmprendimientoController.cs",
-              "RelativeDocumentMoniker": "Controllers\\EmprendimientoController.cs",
-              "ToolTip": "C:\\ProyectoEnlaceSolidario\\Emprendimiento_Api\\Controllers\\EmprendimientoController.cs",
-              "RelativeToolTip": "Controllers\\EmprendimientoController.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAowD0AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T02:32:38.23Z",
+              "WhenOpened": "2024-05-22T02:41:30.836Z",
               "EditorCaption": ""
             }
           ]
